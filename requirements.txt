@@ -1,0 +1,9 @@
+langchain
+langchain-community
+tqdm
+supabase
+openai
+unstructured
+"unstructured[csv]"
+python-dotenv
+tiktoken

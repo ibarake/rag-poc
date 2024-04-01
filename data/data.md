@@ -1,0 +1,1 @@
+# add all your data folders here, you can download a sample from a notion db
