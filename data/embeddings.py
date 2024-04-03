@@ -3,10 +3,10 @@ from langchain_community.document_loaders import UnstructuredMarkdownLoader
 from langchain.document_loaders.csv_loader import CSVLoader
 from langchain.schema import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from modelclient import openai_api 
+from clients import openai_api 
 import tiktoken
 
-class DocumentData:
+class Embeddings:
     
     LOADERS = {
         '.md' : UnstructuredMarkdownLoader,

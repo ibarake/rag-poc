@@ -1,5 +1,5 @@
-!/data/
-/data/*
-!/data/data.md
+!/documents/
+/documents/*
+!/documents/data.md
 __pycache__
 .env

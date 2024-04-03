@@ -1,3 +1,6 @@
-from datamodules import DocumentData
+from data import Embeddings
+from dotenv import load_dotenv
 
-DocumentData("./data")
+load_dotenv()
+
+Embeddings("./data")
