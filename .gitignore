@@ -3,3 +3,4 @@
 !/documents/data.md
 __pycache__
 .env
+venv/
